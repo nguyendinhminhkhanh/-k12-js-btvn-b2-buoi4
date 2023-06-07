@@ -1,0 +1,15 @@
+.heading{
+    color: #00ffff;
+    font-size: 30px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+}
+.subject{
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+.colorText{
+    color: red;
+}
